@@ -3,7 +3,7 @@
 A complete guide to help developers understand HIPAA Compliance and its implications for application development.
 
 
-![HIPAA Compliance logo](Aspose.Words.81f7c29b-298c-4b53-bcf7-4a0f1fed15c8.001.jpeg)
+![HIPAA Compliance logo](https://www.atlantic.net/wp-content/uploads/2023/06/Aspose.Words_.81f7c29b-298c-4b53-bcf7-4a0f1fed15c8.001.jpeg)
 
 ## <a name="_toc106221243"></a>About
 The Health Insurance Portability and Accountability Act, or HIPAA, was made federal law in 1996, setting a national standard to protect medical records and other personal health information. HIPAA Compliant Hosting by Atlantic.Net is SOC 2 and SOC 3 certified and designed to secure and protect critical healthcare data, electronic protected health information (ePHI), and health records per the requirements of HIPAA.
