@@ -14,7 +14,7 @@ This guide will provide you with critical information about HIPAA and how to imp
 
 # Contents
 
-[A Complete Guide to HIPAA Compliance	1](#_toc106221242)
+[A Complete Guide to HIPAA Compliance](#_toc106221242)
 
 01 - [About](#_toc106221243)
 
