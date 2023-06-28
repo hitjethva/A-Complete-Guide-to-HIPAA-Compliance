@@ -16,22 +16,26 @@ This guide will provide you with critical information about HIPAA and how to imp
 
 [A Complete Guide to HIPAA Compliance	1](#_toc106221242)
 
-01 - [About	1](#_toc106221243)
-02 - [What Is HIPAA?	4](#_toc106221244)
-03 - [Who Needs to Be HIPAA-Compliant?	5](#_toc106221245)
-+ [Covered Entities	5](#_toc106221246)
-+ [Business Associates	5](#_toc106221247)
-+ [The Four Rules of HIPAA	5](#_toc106221248)
-04 - [What Is Required for HIPAA Compliance?	6](#_toc106221249)
-+ [Self-Audits	6](#_toc106221250)
-+ [Remediation Plans	6](#_toc106221251)
-+ [Policies, Procedures, Employee Training	7](#_toc106221252)
-+ [Documentation	7](#_toc106221253)
-+ [Business Associate Management	7](#_toc106221254)
-+ [Incident Management	7](#_toc106221255)
-05 - [Checklist to Confirm HIPAA Compliance	7](#_toc106221256)
+01 - [About](#_toc106221243)
 
-[Why Is HIPAA Important?	8](#_toc106221257)
+02 - [What Is HIPAA?](#_toc106221244)
+
+03 - [Who Needs to Be HIPAA-Compliant?](#_toc106221245)
++ [Covered Entities](#_toc106221246)
++ [Business Associates](#_toc106221247)
++ [The Four Rules of HIPAA](#_toc106221248)
+
+04 - [What Is Required for HIPAA Compliance?](#_toc106221249)
++ [Self-Audits](#_toc106221250)
++ [Remediation Plans](#_toc106221251)
++ [Policies, Procedures, Employee Training](#_toc106221252)
++ [Documentation](#_toc106221253)
++ [Business Associate Management](#_toc106221254)
++ [Incident Management](#_toc106221255)
+
+05 - [Checklist to Confirm HIPAA Compliance](#_toc106221256)
+
+06 - [Why Is HIPAA Important?](#_toc106221257)
 
 [Introduction	8](#_toc106221258)
 
