@@ -36,164 +36,99 @@ This guide will provide you with critical information about HIPAA and how to imp
 05 - [Checklist to Confirm HIPAA Compliance](#_toc106221256)
 
 06 - [Why Is HIPAA Important?](#_toc106221257)
-
-[Introduction	8](#_toc106221258)
-
-[Benefits of HIPAA Compliance	8](#_toc106221259)
-
-[Protects Patient Information	8](#_toc106221260)
-
-[Helps Companies Transition to Digital	9](#_toc106221261)
-
-[Holds the Involved Parties Responsible and Accountable	9](#_toc106221262)
-
-[Reduces Costs for Companies	9](#_toc106221263)
-
-[Cloud Computing in the Healthcare Industry	10](#_toc106221264)
-
-[Why Is Cloud Computing So Appealing for Healthcare?	10](#_toc106221265)
-
-[Benefits of Cloud Computing for Healthcare	10](#_toc106221266)
-
-[How to Select a Strong Healthcare Host	12](#_toc106221267)
-
-[IT Solutions for the Healthcare Industry	12](#_toc106221268)
-
-[Introduction	12](#_toc106221269)
-
-[What Are IT Solutions for the Healthcare Industry?	13](#_toc106221270)
-
-[How Healthcare Organizations Can Benefit from Managed IT Services	13](#_toc106221271)
-
-[How to Choose the Right Managed IT Service for Your Healthcare Organization	15](#_toc106221272)
-
-[How to Build a HIPAA Compliant Python Application on the Atlantic.Net Cloud Platform	16](#_toc106221273)
-
-[Introduction	16](#_toc106221274)
-
-[Why Is Python Beneficial for Healthcare?	16](#_toc106221275)
-
-[Factors to Consider When Building HIPAA Compliant Python Application	16](#_toc106221276)
-
-[Core Design Requirements of HIPAA Compliant Python Applications	16](#_toc106221277)
-
-[How to Choose the Right HIPAA Platform for Your New Application	18](#_toc106221278)
-
-[Features of a HIPAA Compliant App for Patients	18](#_toc106221279)
-
-[Features of a HIPAA Compliant App for Doctors and Healthcare Centers	19](#_toc106221280)
-
-[Choosing the Right HIPAA Platform	19](#_toc106221281)
-
-[Business Associate Agreement	19](#_toc106221282)
-
-[Security Practices of the Vendor	20](#_toc106221283)
-
-[Effective and Periodic Risk Assessment and Self-Audits	20](#_toc106221284)
-
-[Support	20](#_toc106221285)
-
-[Service Level Agreement	20](#_toc106221286)
-
-[Data Center	20](#_toc106221287)
-
-[Final Thoughts	20](#_toc106221288)
-
-[Importance of Disaster Recovery for HIPAA Compliance	21](#_toc106221289)
-
-[Introduction	21](#_toc106221290)
-
-[Disaster Recovery Plans	21](#_toc106221291)
-
-[Disaster Recovery Plan	21](#_toc106221292)
-
-[Emergency Operations Mode Plan	22](#_toc106221293)
-
-[How to Make Your WordPress Website HIPAA Compliant	22](#_toc106221294)
-
-[Introduction	22](#_toc106221295)
-
-[Setting up a Sample HIPAA WordPress Website	22](#_toc106221296)
-
-[Things to Consider When Building Websites with WordPress	23](#_toc106221297)
-
-[How to Make Your Drupal Website HIPAA Compliant	24](#_toc106221298)
-
-[Start with a HIPAA-Compliant Infrastructure	24](#_toc106221299)
-
-[Focus on Interoperability	25](#_toc106221300)
-
-[Website Security	25](#_toc106221301)
-
-[Securing Data Collection	25](#_toc106221302)
-
-[Data Access Control	25](#_toc106221303)
-
-[Backup and Recovery	26](#_toc106221304)
-
-[Monitor and Retain Logs	26](#_toc106221305)
-
-[Business Associate Agreement	26](#_toc106221306)
-
-[How to Make Your cPanel Host HIPAA Compliant	26](#_toc106221307)
-
-[HIPAA Compliance for cPanel Depends on Hosting	26](#_toc106221308)
-
-[Shared Responsibility Model	27](#_toc106221309)
-
-[Secure Apache	27](#_toc106221310)
-
-[Secure Your Database	27](#_toc106221311)
-
-[Secure PHP	28](#_toc106221312)
-
-[How to Make Your NextCloud File Share Server HIPAA Compliant	28](#_toc106221313)
-
-[Atlantic.Net Offers a HIPAA-Compliant NextCloud File Sharing Solution	29](#_toc106221314)
-
-[HIPAA-Compliant Cloud Storage and File Sharing	30](#_toc106221315)
-
-[The Importance of Encryption in the Healthcare Sector	30](#_toc106221316)
-
-[What Is Encryption, exactly?	31](#_toc106221317)
-
-[HIPAA on Encryption	31](#_toc106221318)
-
-[Hackers Prey on Health Data	31](#_toc106221319)
-
-[Encryption Helps You Meet HIPAA Security Requirements	31](#_toc106221320)
-
-[Healthcare Is Getting More Connected	32](#_toc106221321)
-
-[Cost Saving Opportunities	32](#_toc106221322)
-
-[Why Multi-Factor Authentication Is Essential for Healthcare	32](#_toc106221323)
-
-[What Is Multi-Factor Authentication?	32](#_toc106221324)
-
-[Multi-Factor Authentication Requirements for HIPAA	33](#_toc106221325)
-
-[How MFA Addresses Certain Security Vulnerabilities	33](#_toc106221326)
-
-[How MFA Helps You Meet HIPAA Password Requirements	34](#_toc106221327)
-
-[HIPAA Security Services on the Atlantic.Net Cloud Platform	35](#_toc106221328)
-
-[Intrusion Prevention System	35](#_toc106221329)
-
-[Access Control Management	36](#_toc106221330)
-
-[Dedicated Managed Firewall & Encrypted VPN	36](#_toc106221331)
-
-[Trend Micro Security Suite	37](#_toc106221332)
-
-[Frequently Asked Questions and Answers	37](#_toc106221333)
-
-[About Atlantic.Net	41](#_toc106221334)
-
-[Introduction	41](#_toc106221335)
-
-[Why Choose Atlantic.Net for HIPAA Compliance?	41](#_toc106221336)
++ [Introduction](#_toc106221258)
++ [Benefits of HIPAA Compliance](#_toc106221259)
++ [Protects Patient Information](#_toc106221260)
++ [Helps Companies Transition to Digital](#_toc106221261)
++ [Holds the Involved Parties Responsible and Accountable](#_toc106221262)
++ [Reduces Costs for Companies](#_toc106221263)
+
+07 - [Cloud Computing in the Healthcare Industry](#_toc106221264)
++ [Why Is Cloud Computing So Appealing for Healthcare?](#_toc106221265)
++ [Benefits of Cloud Computing for Healthcare](#_toc106221266)
++ [How to Select a Strong Healthcare Host](#_toc106221267)
+
+08 - [IT Solutions for the Healthcare Industry](#_toc106221268)
++ [Introduction](#_toc106221269)
++ [What Are IT Solutions for the Healthcare Industry?](#_toc106221270)
++ [How Healthcare Organizations Can Benefit from Managed IT Services](#_toc106221271)
++ [How to Choose the Right Managed IT Service for Your Healthcare Organization](#_toc106221272)
+
+09 - [How to Build a HIPAA Compliant Python Application on the Atlantic.Net Cloud Platform](#_toc106221273)
++ [Introduction](#_toc106221274)
++ [Why Is Python Beneficial for Healthcare?](#_toc106221275)
++ [Factors to Consider When Building HIPAA Compliant Python Application](#_toc106221276)
++ [Core Design Requirements of HIPAA Compliant Python Applications](#_toc106221277)
+
+10 - [How to Choose the Right HIPAA Platform for Your New Application](#_toc106221278)
++ [Features of a HIPAA Compliant App for Patients](#_toc106221279)
++ [Features of a HIPAA Compliant App for Doctors and Healthcare Centers](#_toc106221280)
++ [Choosing the Right HIPAA Platform](#_toc106221281)
++ [Business Associate Agreement](#_toc106221282)
++ [Security Practices of the Vendor](#_toc106221283)
++ [Effective and Periodic Risk Assessment and Self-Audits](#_toc106221284)
++ [Support](#_toc106221285)
++ [Service Level Agreement](#_toc106221286)
++ [Data Center](#_toc106221287)
++ [Final Thoughts](#_toc106221288)
+
+11 - [Importance of Disaster Recovery for HIPAA Compliance](#_toc106221289)
++ [Introduction](#_toc106221290)
++ [Disaster Recovery Plans](#_toc106221291)
++ [Disaster Recovery Plan](#_toc106221292)
++ [Emergency Operations Mode Plan](#_toc106221293)
+
+12 - [How to Make Your WordPress Website HIPAA Compliant](#_toc106221294)
++ [Introduction](#_toc106221295)
++ [Setting up a Sample HIPAA WordPress Website](#_toc106221296)
++ [Things to Consider When Building Websites with WordPress](#_toc106221297)
+
+13 - [How to Make Your Drupal Website HIPAA Compliant](#_toc106221298)
++ [Start with a HIPAA-Compliant Infrastructure](#_toc106221299)
++ [Focus on Interoperability](#_toc106221300)
++ [Website Security](#_toc106221301)
++ [Securing Data Collection](#_toc106221302)
++ [Data Access Control](#_toc106221303)
++ [Backup and Recovery](#_toc106221304)
++ [Monitor and Retain Logs](#_toc106221305)
++ [Business Associate Agreement](#_toc106221306)
+
+14 - [How to Make Your cPanel Host HIPAA Compliant](#_toc106221307)
++ [HIPAA Compliance for cPanel Depends on Hosting](#_toc106221308)
++ [Shared Responsibility Model](#_toc106221309)
++ [Secure Apache](#_toc106221310)
++ [Secure Your Database](#_toc106221311)
++ [Secure PHP](#_toc106221312)
+
+15 - [How to Make Your NextCloud File Share Server HIPAA Compliant](#_toc106221313)
++ [Atlantic.Net Offers a HIPAA-Compliant NextCloud File Sharing Solution](#_toc106221314)
++ [HIPAA-Compliant Cloud Storage and File Sharing](#_toc106221315)
+
+16 - [The Importance of Encryption in the Healthcare Sector](#_toc106221316)
++ [What Is Encryption, exactly?](#_toc106221317)
++ [HIPAA on Encryption](#_toc106221318)
++ [Hackers Prey on Health Data](#_toc106221319)
++ [Encryption Helps You Meet HIPAA Security Requirements](#_toc106221320)
++ [Healthcare Is Getting More Connected](#_toc106221321)
++ [Cost Saving Opportunities](#_toc106221322)
+
+17 - [Why Multi-Factor Authentication Is Essential for Healthcare](#_toc106221323)
++ [What Is Multi-Factor Authentication?](#_toc106221324)
++ [Multi-Factor Authentication Requirements for HIPAA](#_toc106221325)
++ [How MFA Addresses Certain Security Vulnerabilities](#_toc106221326)
++ [How MFA Helps You Meet HIPAA Password Requirements](#_toc106221327)
+
+18 - [HIPAA Security Services on the Atlantic.Net Cloud Platform](#_toc106221328)
++ [Intrusion Prevention System](#_toc106221329)
++ [Access Control Management](#_toc106221330)
++ [Dedicated Managed Firewall & Encrypted VPN](#_toc106221331)
++ [Trend Micro Security Suite](#_toc106221332)
+
+19 - [Frequently Asked Questions and Answers](#_toc106221333)
+
+20 - [About Atlantic.Net](#_toc106221334)
++ [Introduction](#_toc106221335)
++ [Why Choose Atlantic.Net for HIPAA Compliance?](#_toc106221336)
 
 
 ## <a name="_toc106221244"></a>What Is HIPAA?
