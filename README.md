@@ -1378,13 +1378,7 @@ Launched in 1994, Atlantic.Net is a prominent hosting provider with highly secur
 
 Atlantic.Net is a market leader in providing state-of-the-art hosting services. We’re well-known for our exceptional customer service, use of modern technologies, and secure infrastructure. In the hosting industry, we are recognized as an expert hosting provider with numerous national and regional business awards.
 
-Our company strives to meticulously support open-source organizations and grassroots technology. 
-
 ### <a name="_toc106221336"></a>Why Choose Atlantic.Net for HIPAA Compliance?
-
-With nearly 25 years of expertise, Atlantic.Net is a market leader offering state-of-the-art hosting services to SMBs as well as enterprise clients. We’ve helped clients scale and prosper over the years with award-winning service and highly secure data center infrastructure.
-
-Here are some of the top reasons why you should choose Atlantic.Net for HIPAA Compliance:
 
 - World-class, highly secure data centers
 - 100% Uptime SLA (Service-Level Agreement)
@@ -1397,19 +1391,15 @@ HIPAA compliance is a growing need for healthcare entities dealing with confiden
 
 Violating HIPAA standards can lead to breaches, cyberattacks, hefty penalties, and damage to your brand reputation. That’s why choosing a reliable, secure, and trustworthy [HIPAA-compliant hosting](https://www.atlantic.net/hipaa-compliant-hosting/) provider is essential!
 
-Here’s why you should choose Atlantic.Net for HIPAA Compliance:
-
 #### *Highly Available Infrastructure*
 
-Atlantic.Net offers highly secure, world-class colocation data centers spread across different locations such as Dallas (USA), Orlando (USA), London (UK), Toronto (Canada), San Francisco (USA), Ashburn (USA), and New York (USA). For other countries, you may need a CDN such as CloudFlare. These are also SSAE certified and formally audited, making them fully trustworthy.
-
-We run our HIPAA-compliant infrastructure in these reliable HIPAA-compliant data centers, which are further backed with leading-edge redundant systems, security, power, and optimal temperature/humidity controls.
+Atlantic.Net offers highly secure, world-class colocation data centers spread across different locations such as Dallas (USA), Orlando (USA), London (UK), Toronto (Canada), San Francisco (USA), Ashburn (USA), and New York (USA).
 
 Healthcare service providers, SaaS providers, or any applicable service providers can build a robust and secure infrastructure with the Atlantic.Net Cloud Platform. And width-intensive businesses can get faster access to data center resources and reliable network performance. These HIPAA-compliant data centers can support various hosting requirements, such as e-commerce, compliance hosting, or even implementing stricter security requirements.
 
 #### *Compliant Hosting Services*
 
-Atlantic.Net provides multiple hosting services covering managed hosting, cloud, and private virtualization as well as dedicated colocation. Our highly available infrastructure can meet the hosting requirements of any size or scale. Additionally, clients get round-the-clock technical support from an expert team. 
+Atlantic.Net provides multiple hosting services covering managed hosting, cloud, and private virtualization as well as dedicated colocation.
 
 Atlantic.Net can customize the hosting solution to meet your business-critical objectives. The highly available infrastructure at Atlantic.Net is SSAE 18, HITECH, and HIPAA-compliant and is housed in highly secure facilities. The data center facilities are all climate-controlled with consistent round-the-clock monitoring and multiple direct connections to the network. This ensures high availability, less downtime, and robust data security. 
 
@@ -1422,33 +1412,6 @@ Atlantic.Net Cloud Platform delivers faster speeds for your business-critical ap
 When handling HIPAA-governed medical data, it is extremely important to choose a reliable and highly secure host to combat hefty penalties for HIPAA violations. Whether you run a large, resource-hungry site or a healthcare business, complying with HIPAA standards is mandatory for every covered entity that holds, stores, or processes the PHI (Protected Health Information) of patients. 
 
 Atlantic.Net provides unmanaged as well as managed HIPAA-Compliant hosting plans, curated to secure your PHI and medical records. It is audited by a third-party firm. The hosting services are SOC 2 and SOC 3 certified and are HITECH and HIPAA-compliant. Data encryption, advanced firewall, MFA (Multi-factor authentication), and multiple security layers meet and exceed HIPAA standards. 
-
-#### *SAS 70 and SSAE 17 Type II Certification*
-
-In 2009, Atlantic.Net established itself as a cloud computing and web hosting company first and foremost and achieved a SAS 70 certification. In the same year, we established our managed hosting services for international businesses and government agencies. 
-
-Later in 2012, the company achieved an SSAE 16 Type II certification. 
-
-#### *Cloud Hosting and Business-Centric Resources*
-
-If your website is growing fast and needs scalability, or if your site is not large enough to opt for an expensive dedicated server, then a cloud solution is just right for you! Why?
-
-With a cloud solution, if you need more resources, you can scale as you grow. Our cloud hosting services also offer flexibility according to your specific needs, categorized into plans such as general-purpose, memory-optimized, storage-optimized, and compute-optimized.
-
-Some prominent features of this hosting type include:
-
-- Per-second billing
-- CPU cycles
-- cPanel
-- Free data transfer
-- Customer support via email, live chat, and phone
-- One-click installations
-- RESTful API
-- Daily backups
-- RAID storage
-- Worldwide cloud distribution
-
-Additionally, Atlantic.Net also offers other significant services such as mobile apps, colocation servers, hybrid servers, and database hosting.
 
 #### *First Rate Security*
 
@@ -1477,10 +1440,3 @@ Atlantic.Net employs IT professionals with years of expertise, forming a support
 
 Managing the security, transfer, and storage of data on a cloud or dedicated environment can be time-consuming. Atlantic.Net offers top-quality managed services to help organizations save time, resources, and effort, thereby boosting their productivity. This also further reduces operational costs and promotes better resource utilization.
 
-#### *Try Atlantic.Net Free*
-
-Businesses can get a 1-month Free Trial of colocation services at our Orlando (USA) data center. All data center facilities at Atlantic.Net have completed the audits and achieved certifications to comply with HIPAA and HITECH standards. A top-qualified, independent third-party auditing company executes the auditing procedure. 
-
-The Atlantic.Net Cloud Platform offers an exceptional SLA (Service-Level Agreement) with robust on-site security and a turn-key platform with innovative cloud services. It offers a pay-as-you-go pricing model as well; clients only pay for services they use.
-
-We run a carrier-neutral infrastructure, further reinforced with multiple top-tiered network providers. The data center systems automatically transport your data via the fastest route available and redirect traffic to a different carrier when there is a carrier outage. The network connectivity is monitored continuously to ensure high-quality infrastructure, redundancy, and bandwidth to fulfill our market-leading SLA.
